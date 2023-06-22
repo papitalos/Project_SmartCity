@@ -1,0 +1,10 @@
+0;///locao.rubis.cumpre;Central de Camionagem
+1;///solao.suprir.leitao;Rua dos Chãos
+2;///viria.parou.aonde;Avenida Central I
+3;///orgao.nossa.alma;Avenida Central II
+4;///notei.babuinos.votam;Avenida Central III
+5;///gostei.fita.facam;Rua Do Raio
+6;///lanca.digite.alem;Escola Secundaria Dona Maria II
+7;///porem.parou.jogam;Escola Secundaria Carlos Amarante
+8;///luxos.gaitas.voar;Letreiro de Braga
+9;///suporta.feitor.anzol;Palacio do Raio

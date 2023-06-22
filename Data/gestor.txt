@@ -1,0 +1,6 @@
+1;Jose Francisco;acerq@gmailcom;123
+2;Joao Silva;j.silva@email.com;P@ssword123
+3;Mariana Gomes;mariana.gomes@email.com;Gestor2023
+4;Ricardo Santos;ricardo.santos@email.com;Pass123!
+5;Ana Pereira;ana.pereira@email.com;Secret123
+6;Pedro Sousa;pedro.sousa@email.com;GestorPT2023
